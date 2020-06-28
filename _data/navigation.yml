@@ -1,6 +1,26 @@
 # Site navigation links
 
-- title:
-  url:
-  excerpt:
-  image:
+- title: Hakkımda 
+  url: /portfolio/
+  excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
+  image: 300x200.gif
+
+- title: Hİzmetlerİmİz 
+  url: /portfolio/
+  excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
+  image: 300x200.gif
+
+- title: Blog 
+  url: /portfolio/
+  excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
+  image: 300x200.gif
+
+- title: Faydalı Bİlgİler 
+  url: /portfolio/
+  excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
+  image: 300x200.gif
+
+- title: İletİşİm 
+  url: /portfolio/
+  excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
+  image: 300x200.gif
