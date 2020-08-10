@@ -1,12 +1,12 @@
 # Site navigation links
 
 - title: Hakkımda 
-  url: /portfolio/
+  url: /hakkimda/
   excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
   image: 300x200.gif
 
 - title: Hİzmetlerİmİz 
-  url: /portfolio/
+  url: /hizmetlerimiz/
   excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
   image: 300x200.gif
 

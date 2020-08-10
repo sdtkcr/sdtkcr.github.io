@@ -7,7 +7,8 @@ permalink: /
     background-repeat: no-repeat;
     background-attachment: fixed;
     text-align: center;
-    color: #fff;">
+    color: #fff;
+		height: 500px;">
 	<div class="wrap page-lead-content">
 		<h1>Skinny Bones</h1>
 		<h2>Jump start your Jekyll site with something thin and light.</h2>
