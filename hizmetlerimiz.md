@@ -15,7 +15,7 @@ section{
 }
 section .section-title{
 	text-align:center;
-	color:#007b5e;
+	color:#00135f;
 	margin-bottom:50px;
 	text-transform:uppercase;
 }
@@ -57,7 +57,7 @@ section .section-title{
 	font-family: FontAwesome;
     position: absolute;
     font-size: 39px;
-    color: #007b5e;
+    color: #00135f;
     left: 0;
 	-webkit-transition: -webkit-transform .2s ease-in-out;
     transition:transform .2s ease-in-out;
