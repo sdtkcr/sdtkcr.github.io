@@ -151,6 +151,33 @@ section .section-title{
 						</div>
 					</div>
 				</div>
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
+					<div class="card">
+						<div class="card-block block-6">
+							<h3 class="card-title">Beyanname - Bildirge Sorumluluğu</h3>
+							<p class="card-text">Genel kabul görmüş muhasebe prensipleri ve ilgili mevzuat hükümleri gereğince, gerçek ve tüzel kişilere ait teşebbüs ve işletmelerin defterlerini tutmak, bilanço, kar-zarar tablosu ve beyannameleri ile diğer belgelerini düzenlemek.</p>
+							<a href="https://www.fiverr.com/share/qb8D02" title="Read more" class="read-more" >Read more<i class="fa fa-angle-double-right ml-2"></i></a>
+						</div>
+					</div>
+				</div>
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
+					<div class="card">
+						<div class="card-block block-6">
+							<h3 class="card-title">Bordrolama ve Personel Özlük İşlemleri</h3>
+							<p class="card-text">İşletme personeline ait ücret bordrolarının, hesap pusulalarının hazırlanması, personellerce imzalanmak üzere işverene sunulması. Aylık prim ve hizmet belgelerinin tahakkuk ettirerek firmalara iletmek. İşe giriş ve işten çıkış bildirgelerini kanuni süresine uygun düzenlemek. İşten ayrılan personelin Kıdem ve İhbar Tazminatları’nın hesaplamak; işten ayrılma ile ilgili tüm belgelerin hazırlamak.</p>
+							<a href="https://www.fiverr.com/share/qb8D02" title="Read more" class="read-more" >Read more<i class="fa fa-angle-double-right ml-2"></i></a>
+						</div>
+					</div>
+				</div>
+        <div class="col-xs-12 col-sm-6 col-md-4 col-lg-4 col-xl-4">
+					<div class="card">
+						<div class="card-block block-6">
+							<h3 class="card-title">Denetim ve Raporlama</h3>
+							<p class="card-text">Belgelere dayanılarak, inceleme, tahlil, denetim yapmak, mali tablo ve beyannamelerle ilgili konularda yazılı görüş vermek, rapor ve benzerlerini düzenlemek.</p>
+							<a href="https://www.fiverr.com/share/qb8D02" title="Read more" class="read-more" >Read more<i class="fa fa-angle-double-right ml-2"></i></a>
+						</div>
+					</div>
+				</div>
 			</div>
 		</div>	
 	</section>

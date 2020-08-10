@@ -2,25 +2,15 @@
 
 - title: Hakkımda 
   url: /hakkimda/
-  excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
-  image: 300x200.gif
 
 - title: Hizmetlerimiz 
   url: /hizmetlerimiz/
-  excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
-  image: 300x200.gif
 
 - title: Blog 
   url: /portfolio/
-  excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
-  image: 300x200.gif
 
 - title: Faydalı Bilgiler 
   url: /portfolio/
-  excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
-  image: 300x200.gif
 
 - title: İletişim 
-  url: /portfolio/
-  excerpt: "Things I’ve designed, illustrated, developed, coded, and whatever."
-  image: 300x200.gif
+  url: /iletisim/
